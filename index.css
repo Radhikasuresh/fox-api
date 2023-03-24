@@ -1,0 +1,22 @@
+body{
+    background-color: lightgray;
+}
+#result{
+        margin-top: 100px;
+    text-align: center;
+    color:gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+button{
+    margin-left: 550px;
+    margin-top: 20px;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: tomato;
+    border: 1px solid tomato;
+}
